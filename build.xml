@@ -1,3 +1,4 @@
+bug
 <project basedir="." default="compile" name="site">
     <path id="class.path">
         <fileset dir="lib">
